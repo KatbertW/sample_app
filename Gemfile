@@ -10,7 +10,7 @@ gem 'will_paginate', '3.0.4'
 gem 'bootstrap-will_paginate', '0.0.9'
 gem "font-awesome-rails", "~> 4.2"
 gem "simple_form", "3.1.0"
-gem "devise", "~> 3.4.1"
+gem "devise", "~> 4.7.1"
 
 #Avoiding ExecJC error
 gem 'therubyracer', platforms: :ruby
